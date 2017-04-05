@@ -44,6 +44,9 @@
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
   },
+  "optionalDependencies": {
+    "phantomjs-prebuilt": "2.1.13"
+  },
   "ember-addon": {
     "configPath": "tests/dummy/config"
   }
